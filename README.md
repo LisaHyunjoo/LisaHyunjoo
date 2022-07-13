@@ -1,10 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Lisa%20Hong&fontColor=ffffff&fontSize=90)
 
-<h2>
+<h3>
 🌱 I’m currently at General Assembly Software Engineer Immersive bootcamp <br/>
 🏠 Living in Virginia, US
-</h2>
+</h3>
 
 <br />
 <h1>📚 My tech stack </h1>
