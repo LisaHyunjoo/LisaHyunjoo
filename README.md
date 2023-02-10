@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br />
-<h1>🖥 Github Stats</h1>
+<!-- <h1>🖥 Github Stats</h1>
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LisaHyunjoo&theme=highcontrast&show_icons=true&count_private=true)
   
@@ -31,7 +31,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaHyunjoo&theme=highcontrast&show_icons=true&count_private=true)
   
 
-<br />
+<br /> -->
 <h1>📫 How to reach me: </h1>
 
 <p align="center">
