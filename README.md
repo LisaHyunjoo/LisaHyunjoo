@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Lisa%20Hong&fontColor=ffffff&fontSize=90)
 
 <h3>
-🌱 Upcoming Fullstack Developer <br/>
+🌱 Java/Fullstack Developer <br/>
 🏠 Living in Virginia, US
 </h3>
 
